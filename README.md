@@ -14,9 +14,8 @@
 
 ## 📊 My Contributions
 
-![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihdev&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabiihdev&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihdev&layout=compact&langs_count=6&theme=radical)
+![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihdev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihdev&layout=compact&langs_count=6&theme=tokyonight)
 
 ## 🛠️ My Skills
 
@@ -52,5 +51,5 @@
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-oinhos-158ab9300/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabiih.dev@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-oinhos-158ab9300/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red)](mailto:gabiih.dev@gmail.com) 
