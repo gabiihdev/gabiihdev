@@ -15,7 +15,7 @@
 ## 📊 My Contributions
 
 ![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihdev&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabiihdev&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabiihdev&theme=radical) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihdev&layout=compact&langs_count=6&theme=radical)
 
 ## 🛠️ My Skills
