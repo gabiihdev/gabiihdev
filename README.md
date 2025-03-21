@@ -5,19 +5,19 @@
 <br><br>
 
 
-## 🎓 About Me
+## About Me
 ```
 🎓 Systems Analysis and Development Student   
 🚀 Passionate about technology and problem-solving  
 💡 Always learning and improving my skills  
 ```
 
-## 📊 My Contributions
+## My Contributions
 
-![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihdev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihdev&layout=compact&langs_count=6&theme=tokyonight)
+![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihdev&layout=compact&langs_count=6&theme=radical)
 
-## 🛠️ My Skills
+## My Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript) 
@@ -35,7 +35,7 @@
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-FC8406?style=flat-square&logo=lucidchart&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
 
-## 🚀 My Main Projects
+## My Main Projects
 
 <table>
   <thead>
@@ -50,7 +50,7 @@
   </tbody>
 </table>
 
-## 📬 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-oinhos-158ab9300/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red)](mailto:gabiih.dev@gmail.com) 
