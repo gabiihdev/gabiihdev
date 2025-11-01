@@ -41,11 +41,13 @@
   <thead>
     <th>Controle de Estoque</th>
     <th>Concessionária</th>
+    <th>Biblioteca</th>
     <th>Agenda de Contatos</th>
   </thead>
   <tbody>
     <td><a href="https://wakatime.com/badge/user/e9a46457-b63e-43be-9fe5-023dea03e27f/project/9d455550-2652-4e58-bf05-519532ff748e"><img src="https://wakatime.com/badge/user/e9a46457-b63e-43be-9fe5-023dea03e27f/project/9d455550-2652-4e58-bf05-519532ff748e.svg" alt="wakatime"></a></td>
     <td><a href="https://wakatime.com/badge/user/e9a46457-b63e-43be-9fe5-023dea03e27f/project/6fd1d14e-1a7e-4932-91c5-1047496d0b39"><img src="https://wakatime.com/badge/user/e9a46457-b63e-43be-9fe5-023dea03e27f/project/6fd1d14e-1a7e-4932-91c5-1047496d0b39.svg" alt="wakatime"></a></td>
+    <td><a href="https://wakatime.com/badge/user/e9a46457-b63e-43be-9fe5-023dea03e27f/project/eb42c935-58f4-4957-a337-45a26c31eb57"><img src="https://wakatime.com/badge/user/e9a46457-b63e-43be-9fe5-023dea03e27f/project/eb42c935-58f4-4957-a337-45a26c31eb57.svg" alt="wakatime"></a></td>
     <td><a href="https://wakatime.com/badge/user/e9a46457-b63e-43be-9fe5-023dea03e27f/project/2fcf043e-9a80-4bc9-9fda-14f42b1df576"><img src="https://wakatime.com/badge/user/e9a46457-b63e-43be-9fe5-023dea03e27f/project/2fcf043e-9a80-4bc9-9fda-14f42b1df576.svg" alt="wakatime"></a></td>
   </tbody>
 </table>
