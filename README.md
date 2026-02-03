@@ -47,7 +47,7 @@
   <thead>
     <th>Inventory Control</th>
     <th>Car Dealership</th>
-    <th>Library</th>
+    <th>Library Management</th>
     <th>Contact Agenda</th>
   </thead>
   <tbody>
