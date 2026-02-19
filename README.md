@@ -12,11 +12,6 @@
 💡 Always learning and improving my skills  
 ```
 
-## My Contributions
-
-![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihdev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihdev&layout=compact&langs_count=6&theme=radical)
-
 ## My Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
